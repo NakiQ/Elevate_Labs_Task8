@@ -1,0 +1,43 @@
+										Simple Sales Dashboard Design
+
+Objective:-
+
+The goal of this task was to design a basic interactive sales dashboard in Power BI to analyze sales performance by product category, region, and time (month-year).
+
+Tools & Dataset:-
+
+Tool: Power BI
+
+Dataset: Superstore_Sales.csv
+
+Columns used: Order Date, Region, Category, Sales
+
+Dashboard Components:-
+
+Line Chart – Monthly Sales Trend
+
+Shows sales over time (Month-Year).
+
+Helps identify peak and low sales months.
+
+Bar Chart – Sales by Region
+
+Compares total sales across Central, East, South, and West regions.
+
+Donut Chart – Sales by Category
+
+Displays the sales share of Technology, Furniture, and Office Supplies.
+
+Slicer – Region Filter
+
+Allows users to focus on sales trends within a specific region.
+
+Key Insights:-
+
+East region led overall sales (~0.71M), followed by West (~0.67M).
+
+Technology was the top-performing category, contributing the largest share.
+
+Sales peaked in December 2018, crossing 100K, while May 2018 recorded the lowest (~20K).
+
+South region underperformed (~0.39M), indicating potential improvement areas.
